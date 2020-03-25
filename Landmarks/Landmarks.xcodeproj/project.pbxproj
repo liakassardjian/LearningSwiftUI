@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E4A7FCE7242BCFAD00BCC871 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A7FCE6242BCFAD00BCC871 /* CircleImage.swift */; };
+		E4A7FCE9242BD16A00BCC871 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A7FCE8242BD16A00BCC871 /* MapView.swift */; };
 		E4D54FC7242BC8B9000B0811 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D54FC6242BC8B9000B0811 /* AppDelegate.swift */; };
 		E4D54FC9242BC8B9000B0811 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D54FC8242BC8B9000B0811 /* SceneDelegate.swift */; };
 		E4D54FCB242BC8B9000B0811 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D54FCA242BC8B9000B0811 /* ContentView.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		E4A7FCE6242BCFAD00BCC871 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		E4A7FCE8242BD16A00BCC871 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		E4D54FC3242BC8B9000B0811 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4D54FC6242BC8B9000B0811 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E4D54FC8242BC8B9000B0811 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				E4D54FD4242BC8BD000B0811 /* Info.plist */,
 				E4D54FCE242BC8BD000B0811 /* Preview Content */,
 				E4A7FCE6242BCFAD00BCC871 /* CircleImage.swift */,
+				E4A7FCE8242BD16A00BCC871 /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				E4D54FC7242BC8B9000B0811 /* AppDelegate.swift in Sources */,
 				E4A7FCE7242BCFAD00BCC871 /* CircleImage.swift in Sources */,
+				E4A7FCE9242BD16A00BCC871 /* MapView.swift in Sources */,
 				E4D54FC9242BC8B9000B0811 /* SceneDelegate.swift in Sources */,
 				E4D54FCB242BC8B9000B0811 /* ContentView.swift in Sources */,
 			);
