@@ -133,17 +133,17 @@
 			isa = PBXGroup;
 			children = (
 				E4A7FD06242BD98800BCC871 /* Model */,
-				E4A7FCEB242BD8AA00BCC871 /* Resources */,
-				E4A7FCEA242BD83000BCC871 /* Suporting Views */,
 				E4D54FC6242BC8B9000B0811 /* AppDelegate.swift */,
 				E4D54FC8242BC8B9000B0811 /* SceneDelegate.swift */,
 				E4D54FCA242BC8B9000B0811 /* LandmarkDetail.swift */,
+				E4A7FD0D242BDCCE00BCC871 /* LandkmarkRow.swift */,
+				E4A7FD0F242BDF9200BCC871 /* LandmarkList.swift */,
+				E4A7FCEB242BD8AA00BCC871 /* Resources */,
+				E4A7FCEA242BD83000BCC871 /* Suporting Views */,
 				E4D54FCC242BC8BD000B0811 /* Assets.xcassets */,
 				E4D54FD1242BC8BD000B0811 /* LaunchScreen.storyboard */,
 				E4D54FD4242BC8BD000B0811 /* Info.plist */,
 				E4D54FCE242BC8BD000B0811 /* Preview Content */,
-				E4A7FD0D242BDCCE00BCC871 /* LandkmarkRow.swift */,
-				E4A7FD0F242BDF9200BCC871 /* LandmarkList.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
