@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		E45049EC243257B100597A54 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45049EB243257B100597A54 /* Badge.swift */; };
 		E45049EE243257E100597A54 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45049ED243257E100597A54 /* HexagonParameters.swift */; };
+		E45049F024325BFF00597A54 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45049EF24325BFF00597A54 /* BadgeBackground.swift */; };
+		E45049F224325C9D00597A54 /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45049F124325C9D00597A54 /* BadgeSymbol.swift */; };
 		E4A7FCE7242BCFAD00BCC871 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A7FCE6242BCFAD00BCC871 /* CircleImage.swift */; };
 		E4A7FCE9242BD16A00BCC871 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A7FCE8242BD16A00BCC871 /* MapView.swift */; };
 		E4A7FCF9242BD90600BCC871 /* twinlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E4A7FCEC242BD90500BCC871 /* twinlake.jpg */; };
@@ -40,6 +42,8 @@
 /* Begin PBXFileReference section */
 		E45049EB243257B100597A54 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 		E45049ED243257E100597A54 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
+		E45049EF24325BFF00597A54 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
+		E45049F124325C9D00597A54 /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
 		E4A7FCE6242BCFAD00BCC871 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		E4A7FCE8242BD16A00BCC871 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		E4A7FCEC242BD90500BCC871 /* twinlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twinlake.jpg; sourceTree = "<group>"; };
@@ -147,12 +151,14 @@
 				E4A7FD0F242BDF9200BCC871 /* LandmarkList.swift */,
 				E45049ED243257E100597A54 /* HexagonParameters.swift */,
 				E45049EB243257B100597A54 /* Badge.swift */,
+				E45049EF24325BFF00597A54 /* BadgeBackground.swift */,
 				E4A7FCEB242BD8AA00BCC871 /* Resources */,
 				E4A7FCEA242BD83000BCC871 /* Suporting Views */,
 				E4D54FCC242BC8BD000B0811 /* Assets.xcassets */,
 				E4D54FD1242BC8BD000B0811 /* LaunchScreen.storyboard */,
 				E4D54FD4242BC8BD000B0811 /* Info.plist */,
 				E4D54FCE242BC8BD000B0811 /* Preview Content */,
+				E45049F124325C9D00597A54 /* BadgeSymbol.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -256,8 +262,10 @@
 				E4A7FD0E242BDCCE00BCC871 /* LandmarkRow.swift in Sources */,
 				E4A7FD08242BD99B00BCC871 /* Data.swift in Sources */,
 				E4A7FD10242BDF9200BCC871 /* LandmarkList.swift in Sources */,
+				E45049F224325C9D00597A54 /* BadgeSymbol.swift in Sources */,
 				E4A7FCE7242BCFAD00BCC871 /* CircleImage.swift in Sources */,
 				E4A7FCE9242BD16A00BCC871 /* MapView.swift in Sources */,
+				E45049F024325BFF00597A54 /* BadgeBackground.swift in Sources */,
 				E4D54FC9242BC8B9000B0811 /* SceneDelegate.swift in Sources */,
 				E4A7FD14242BF9D400BCC871 /* UserData.swift in Sources */,
 				E4D54FCB242BC8B9000B0811 /* LandmarkDetail.swift in Sources */,
