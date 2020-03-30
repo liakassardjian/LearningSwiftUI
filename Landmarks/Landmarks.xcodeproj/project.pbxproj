@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E45049EC243257B100597A54 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45049EB243257B100597A54 /* Badge.swift */; };
+		E45049EE243257E100597A54 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45049ED243257E100597A54 /* HexagonParameters.swift */; };
 		E4A7FCE7242BCFAD00BCC871 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A7FCE6242BCFAD00BCC871 /* CircleImage.swift */; };
 		E4A7FCE9242BD16A00BCC871 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A7FCE8242BD16A00BCC871 /* MapView.swift */; };
 		E4A7FCF9242BD90600BCC871 /* twinlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E4A7FCEC242BD90500BCC871 /* twinlake.jpg */; };
@@ -36,6 +38,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E45049EB243257B100597A54 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		E45049ED243257E100597A54 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		E4A7FCE6242BCFAD00BCC871 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		E4A7FCE8242BD16A00BCC871 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		E4A7FCEC242BD90500BCC871 /* twinlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twinlake.jpg; sourceTree = "<group>"; };
@@ -141,6 +145,8 @@
 				E4D54FCA242BC8B9000B0811 /* LandmarkDetail.swift */,
 				E4A7FD0D242BDCCE00BCC871 /* LandmarkRow.swift */,
 				E4A7FD0F242BDF9200BCC871 /* LandmarkList.swift */,
+				E45049ED243257E100597A54 /* HexagonParameters.swift */,
+				E45049EB243257B100597A54 /* Badge.swift */,
 				E4A7FCEB242BD8AA00BCC871 /* Resources */,
 				E4A7FCEA242BD83000BCC871 /* Suporting Views */,
 				E4D54FCC242BC8BD000B0811 /* Assets.xcassets */,
@@ -243,8 +249,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E45049EE243257E100597A54 /* HexagonParameters.swift in Sources */,
 				E4A7FD0C242BDA9500BCC871 /* Landmark.swift in Sources */,
 				E4D54FC7242BC8B9000B0811 /* AppDelegate.swift in Sources */,
+				E45049EC243257B100597A54 /* Badge.swift in Sources */,
 				E4A7FD0E242BDCCE00BCC871 /* LandmarkRow.swift in Sources */,
 				E4A7FD08242BD99B00BCC871 /* Data.swift in Sources */,
 				E4A7FD10242BDF9200BCC871 /* LandmarkList.swift in Sources */,
